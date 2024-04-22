@@ -20,7 +20,7 @@ namespace RestaurantManagement.Controllers
             var model = _employeeRepository.GetAllEmployee();
             return View(model);
         }
-        [Route("Home/Details/{id}")]//we also  id of the employee to be passed if the path is /Home/Details/2
+        [Route("Home/Details/{id?}")]//we make  id of the employee optional
 
         public ViewResult Details(int? id)
         {
