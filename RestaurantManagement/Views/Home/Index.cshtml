@@ -1,3 +1,20 @@
-﻿<html>
-    <h1>Hello from Index.cshtml</h1>
-</html>
+﻿@model IEnumerable<RestaurantManagement.Models.Employee>
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Department</th>
+            </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Department</td>
+            </tr>
+        }
+    </tbody>
+</table>
