@@ -1,10 +1,12 @@
-﻿<html>
+﻿@model RestaurantManagement.Models.Employee//strongly typed view
+<html>
+@*     
+   with this @model directive, our details view is now a stringly typed view 
+*@
     <body>
-    <h3>Model</h3>
+    <h3>Strongly Typed View</h3>
     <h3>@ViewBag.PageTitle</h3>
 
-    @* This is also not stromgly typed view *@
-    
     <div>Name: @Model.Name</div>
     <div>Email:@Model.Email</div>
     <div>Dept: @Model.Department</div>
