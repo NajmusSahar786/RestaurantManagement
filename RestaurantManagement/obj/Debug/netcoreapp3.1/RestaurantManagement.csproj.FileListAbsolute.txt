@@ -34,3 +34,4 @@ D:\New folder (3)\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp
 D:\New folder (3)\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\Restaura.B356954C.Up2Date
 D:\New folder (3)\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\RestaurantManagement.sourcelink.json
 D:\New folder (3)\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\New folder (3)\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
