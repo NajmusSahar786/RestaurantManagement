@@ -15,5 +15,12 @@ namespace RestaurantManagement.Controllers
             var model = _employeeRepository.GetAllEmployee();
             return View(model);
         }
+        public ViewResult Details(int? id)
+        {
+            Employee model = _employeeRepository.GetEmployee(id ?? 1);
+            ViewData["Employee"] = model;
+            ViewData["PageTitle"] = "Employee Details";
+            return View();
+        }
     }
 }
