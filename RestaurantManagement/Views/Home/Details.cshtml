@@ -1,15 +1,34 @@
-﻿@model RestaurantManagement.Models.Employee//strongly typed view
+﻿@model RestaurantManagement.ViewModels.HomeDetailsViewModel//strongly typed view
 <html>
 @*     
-   with this @model directive, our details view is now a stringly typed view 
+   Here we are passing 2 piece of information
+   from Details action to Details View
+   model for Employee & ViewBag for PageTitle
 *@
-    <body>
-    <h3>Strongly Typed View</h3>
-    <h3>@ViewBag.PageTitle</h3>
+@*
+      Using ViewBag, we are creating a loosely typed view as it does not provide intellisense
+ *@
 
-    <div>Name: @Model.Name</div>
-    <div>Email:@Model.Email</div>
-    <div>Dept: @Model.Department</div>
+@*
+      Including pagetitle property into Employee model does not make any sense
+      b/c employee class must only  contain Employee related properties
+
+ *@
+@*
+      This is when we create a separate class that contains all the data our dteails view
+      need .This class is called
+      "ViewModel"
+
+ *@
+    <body>
+    <h3>ViewModel</h3>
+    
+
+    <h3>@Model.PageTitle</h3>
+
+    <div>Name: @Model.Employee.Name</div>
+    <div>Email:@Model.Employee.Email</div>
+    <div>Dept: @Model.Employee.Department</div>
     <hr />
    
     </body>

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RestaurantManagement.Models;
+using RestaurantManagement.ViewModels;
 
 namespace RestaurantManagement.Controllers
 {
@@ -17,9 +18,12 @@ namespace RestaurantManagement.Controllers
         }
         public ViewResult Details(int? id)
         {
-            Employee model = _employeeRepository.GetEmployee(id ?? 1);
-            ViewBag.PageTitle="Employee Details";
-            return View(model);
+            HomeDetailsViewModel homeDetailsViewModel = new HomeDetailsViewModel()
+            {
+                Employee = _employeeRepository.GetEmployee(id ?? 1),
+                PageTitle = "Employee Details"
+            };
+            return View(homeDetailsViewModel);
         }
     }
 }
