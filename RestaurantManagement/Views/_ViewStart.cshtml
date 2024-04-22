@@ -1,0 +1,15 @@
+﻿@{
+    Layout = "_Layout";
+}
+@* 
+
+  Without the viewstart.cshtml file,we set the layout property in each and every view
+  this violates DRY Principle
+  To Use a different layout file,all the indiviudual views need to be updated.
+
+  ViewStart.cshtml- is a special file in asp.net core MVC
+
+  The code in this file is executed before the code in an individual view is executed.
+  So this means instead of setting the layout property in each individual view ,we can
+  move that ode into the _ViewStart.cshtml file
+ *@
