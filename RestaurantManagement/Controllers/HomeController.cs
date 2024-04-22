@@ -4,6 +4,7 @@ using RestaurantManagement.ViewModels;
 
 namespace RestaurantManagement.Controllers
 {
+    [Route("Home")]
     public class HomeController : Controller
     {
         private IEmployeeRepository _employeeRepository;
@@ -12,17 +13,14 @@ namespace RestaurantManagement.Controllers
             _employeeRepository = employeeRepository;
         }
 
-
-        [Route("Home/Index")]  //with attribute Routing the controller name and action method name
-                              //play no role in which action is selected we want
-                              //Here we have rename Index action method to List want List action 
-                              //to be executed if path is /Home/Index
-        public IActionResult List()
+        [Route("/")] // or  [Route("~/")]  for navigating to root url when Route("Home") attribute already applied on Controller
+        public IActionResult Index()
         {
             var model = _employeeRepository.GetAllEmployee();
-            return View("~/Views/Home/Index.cshtml",model);
+            return View(model);
         }
-        [Route("Home/Details/{id?}")]//we make  id of the employee optional
+
+        [Route("Details/{id?}")]
 
         public ViewResult Details(int? id)
         {
