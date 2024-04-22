@@ -20,6 +20,7 @@ namespace RestaurantManagement.Controllers
             var model = _employeeRepository.GetAllEmployee();
             return View(model);
         }
+        [Route("Home/Details")]//we want details action method to be executed if the path is /Home/Details
         public ViewResult Details(int? id)
         {
             HomeDetailsViewModel homeDetailsViewModel = new HomeDetailsViewModel()
