@@ -1,0 +1,23 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@* 
+_ViewImports.cshtml is a feature in asp.net core mvc thar enables 
+you to add common namespaces ,directives and other elements
+to multiple views without having to add  these namespaces ,directives to 
+every individual view
+ It essentially serves as a way to include common code that should be available 
+ to all views in the same directory or in directories. The _ViewImports.cshtml 
+ file works similarly to how web.config or app.config files work for configuration settings,
+e.g
+
+@addTagHelper: directive is used to  make the built in tag helpers available for all the views in our entire 
+application using _ViewImports.cshtml file 
+e.g. @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@using :The @using directive is used to include the 
+common namespaces globally so that you don’t have to include the namespaces in each 
+and every view page.
+
+@model: The @model directive is used to specify the Model for your view.
+
+
+*@
