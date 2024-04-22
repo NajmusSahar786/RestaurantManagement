@@ -12,13 +12,15 @@ namespace RestaurantManagement.Controllers
             _employeeRepository = employeeRepository;
         }
 
-        [Route("")]  //when we want this action method to be executed when we navigate to route URL 
-        [Route("Home")]  //when we want this action method to be executed if the path is /Home
-        [Route("Home/Index")]  //when we want this action method to be executed if the path is /Home/Index
-        public IActionResult Index()
+
+        [Route("Home/Index")]  //with attribute Routing the controller name and action method name
+                              //play no role in which action is selected we want
+                              //Here we have rename Index action method to List want List action 
+                              //to be executed if path is /Home/Index
+        public IActionResult List()
         {
             var model = _employeeRepository.GetAllEmployee();
-            return View(model);
+            return View("~/Views/Home/Index.cshtml",model);
         }
         [Route("Home/Details/{id?}")]//we make  id of the employee optional
 
