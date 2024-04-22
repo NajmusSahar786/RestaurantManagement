@@ -14,6 +14,7 @@ namespace RestaurantManagement.Controllers
 
         [Route("")]  //when we want this action method to be executed when we navigate to route URL 
         [Route("Home")]  //when we want this action method to be executed if the path is /Home
+        [Route("Home/Index")]  //when we want this action method to be executed if the path is /Home/Index
         public IActionResult Index()
         {
             var model = _employeeRepository.GetAllEmployee();
