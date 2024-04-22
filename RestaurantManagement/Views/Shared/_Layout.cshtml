@@ -9,6 +9,11 @@
     <div>
         @RenderBody()
     </div>
-    @RenderSection("Scripts",required:false)
+    @* @RenderSection("Scripts",required:false) *@
+@*     another approach for making section optional *@
+    @if (IsSectionDefined("Scripts"))
+    {
+        @RenderSection("Scripts", required: true)
+    }
 </body>
 </html>
