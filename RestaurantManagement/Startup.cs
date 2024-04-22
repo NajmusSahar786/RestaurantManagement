@@ -27,7 +27,6 @@ namespace RestaurantManagement
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc(option => option.EnableEndpointRouting = false);
-            //services.AddMvc();
             services.AddSingleton<IEmployeeRepository,MockEmployeeRepository>();
         }
 
@@ -41,18 +40,7 @@ namespace RestaurantManagement
            
             app.UseStaticFiles();
             app.UseMvcWithDefaultRoute();
-            //app.UseRouting();
-
-            //app.UseEndpoints(endpoints =>
-            //{
-            //endpoints.MapControllerRoute
-            //    ("default", "{controller=Home}/{action=Index}");
-
-            //});
-            //app.Run(async (context) =>
-            //{ 
-            //    await context.Response.WriteAsync("Hello World"); 
-            //});
+          
         }
     }
 }
