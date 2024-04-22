@@ -1,6 +1,7 @@
 ﻿@{
     Layout = "_Layout";
 }
+<h1>Main ViewStart</h1>
 @* 
 
   Without the viewstart.cshtml file,we set the layout property in each and every view
@@ -13,3 +14,15 @@
   So this means instead of setting the layout property in each individual view ,we can
   move that ode into the _ViewStart.cshtml file
  *@
+
+ <h3>Dynamically select layout Page</h3>
+ <p>
+    @if (User.IsInRole("Admin"))
+    {
+        Layout = "_AdminLayout";
+    }
+    else
+    {
+        Layout = "_NonAdminLayout";
+    }
+</p>
