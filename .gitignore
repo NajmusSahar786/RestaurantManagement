@@ -8,3 +8,17 @@
 *.vsidx
 .vs/RestaurantManagement/v17/.suo
 .vs/RestaurantManagement/v17/DocumentLayout.json
+*.pdb
+*.pdb
+*.pdb
+.vs/RestaurantManagement/v17/DocumentLayout.json
+*.pdb
+*.dll
+RestaurantManagement/obj/Debug/netcoreapp3.1/RestaurantManagement.sourcelink.json
+RestaurantManagement/obj/Debug/netcoreapp3.1/RestaurantManagement.RazorTargetAssemblyInfo.cs
+RestaurantManagement/obj/Debug/netcoreapp3.1/RestaurantManagement.RazorTargetAssemblyInfo.cache
+*.dll
+*.cache
+RestaurantManagement/obj/Debug/netcoreapp3.1/RestaurantManagement.AssemblyInfo.cs
+RestaurantManagement/obj/Debug/netcoreapp3.1/Razor/Views/Home/Details.cshtml.g.cs
+*.exe
