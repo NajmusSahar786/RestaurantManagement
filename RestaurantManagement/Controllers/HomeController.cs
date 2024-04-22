@@ -11,6 +11,8 @@ namespace RestaurantManagement.Controllers
         {
             _employeeRepository = employeeRepository;
         }
+
+        [Route("")]  //when we want this action method to be executed when we navigate to route URL 
         public IActionResult Index()
         {
             var model = _employeeRepository.GetAllEmployee();
