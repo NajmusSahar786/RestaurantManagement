@@ -18,9 +18,8 @@ namespace RestaurantManagement.Controllers
         public ViewResult Details(int? id)
         {
             Employee model = _employeeRepository.GetEmployee(id ?? 1);
-            ViewBag.Employee = model;
             ViewBag.PageTitle="Employee Details";
-            return View();
+            return View(model);
         }
     }
 }
