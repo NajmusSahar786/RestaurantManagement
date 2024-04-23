@@ -1,6 +1,6 @@
 ﻿namespace RestaurantManagement.Models
 {
-    public class Accoount
+    public class Account
     {
     }
 }
