@@ -8,4 +8,9 @@
     <None Include="wwwroot\default.html" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\lib\twitter-bootstrap\css\" />
+    <Folder Include="wwwroot\lib\twitter-bootstrap\js\" />
+  </ItemGroup>
+
 </Project>
