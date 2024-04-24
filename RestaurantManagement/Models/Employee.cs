@@ -1,10 +1,10 @@
-﻿namespace RestaurantManagement.Models
+﻿using System;
+
+namespace RestaurantManagement.Models
 {
-    public class Employee
+    public class Employee:Person
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Email { get; set; }
-        public string Department { get; set; }
+        public int EmployeeId { get; set; }
+        public DateTime DateJoined { get; set; }
     }
 }

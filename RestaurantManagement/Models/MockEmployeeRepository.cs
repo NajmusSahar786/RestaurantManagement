@@ -3,25 +3,27 @@ using System.Linq;
 
 namespace RestaurantManagement.Models
 {
-    public class MockEmployeeRepository : IEmployeeRepository
+    public class MockEmployee2Repository : IEmployee2Repository
     {
-        private readonly List<Employee> _employeeList;
-        public MockEmployeeRepository()
+        private readonly List<Employee2> _employeeList;
+        public MockEmployee2Repository()
         {
-            _employeeList = new List<Employee>()
+            _employeeList = new List<Employee2>()
                 {
-                    new Employee(){Id=1,Name="Mary",Department="HR",Email="mary@gmail.com"},
-                    new Employee(){Id=2,Name="John",Department="IT",Email="john@gmail.com"},
-                    new Employee(){Id=3,Name="Sam",Department="IT",Email="sam@gmail.com"}
+                    new Employee2(){Id=1,Name="Mary",Department="HR",Email="mary@gmail.com"},
+                    new Employee2(){Id=2,Name="John",Department="IT",Email="john@gmail.com"},
+                    new Employee2(){Id=3,Name="Sam",Department="IT",Email="sam@gmail.com"}
                 };
         }
 
-        public IEnumerable<Employee> GetAllEmployee()
+      
+
+        public IEnumerable<Employee2> GetAllEmployee()
         {
             return _employeeList.ToList();
         }
 
-        public Employee GetEmployee(int Id)
+        public Employee2 GetEmployee(int Id)
         {
             return _employeeList.FirstOrDefault(e => e.Id == Id);
         }
