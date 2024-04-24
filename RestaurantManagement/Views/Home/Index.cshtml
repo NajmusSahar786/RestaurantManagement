@@ -1,7 +1,12 @@
-﻿@model IEnumerable<RestaurantManagement.Models.Employee>
+﻿@model IEnumerable<RestaurantManagement.Models.Employee2>
 @{
     // Layout = "~/Views/Shared/_Layout.cshtml";
 
+    // From a performance standpoint, wouldn't it be great to download the
+    // image only if it has changed on the server. If the image has not changed,
+    // use the image from the browser cache. This means we will have the best of both the worlds.
+    // Image Tag Helper can help us achieve this.To use the Image tag helper,
+    //  include asp-append - version attribute and set it to true.
 }
 <div class="card-deck">
     @foreach (var employee in Model)
@@ -10,7 +15,7 @@
             <div class="card-header">
                 <h3>@employee.Name</h3>
             </div>
-            <img class="card-img-top" src="~/images/noimage.png" />
+            <img class="card-img-top" src="~/images/noimage.png" asp-append-version="true" />
             <div class="card-footer text-center">
 
                 <a asp-controller="Home" asp-action="Details" asp-route-id="@employee.Id" class="btn btn-primary">View</a>
