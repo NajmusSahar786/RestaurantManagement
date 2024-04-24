@@ -7,8 +7,8 @@ namespace RestaurantManagement.Controllers
     [Route("Home")]
     public class HomeController : Controller
     {
-        private IEmployeeRepository _employeeRepository;
-        public HomeController(IEmployeeRepository employeeRepository)
+        private IEmployee2Repository _employeeRepository;
+        public HomeController(IEmployee2Repository employeeRepository)
         {
             _employeeRepository = employeeRepository;
         }

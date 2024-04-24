@@ -27,7 +27,7 @@ namespace RestaurantManagement
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc(option => option.EnableEndpointRouting = false);
-            services.AddSingleton<IEmployeeRepository,MockEmployeeRepository>();
+            services.AddSingleton<IEmployee2Repository,MockEmployee2Repository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
