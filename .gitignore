@@ -22,3 +22,5 @@ RestaurantManagement/obj/Debug/netcoreapp3.1/RestaurantManagement.RazorTargetAss
 RestaurantManagement/obj/Debug/netcoreapp3.1/RestaurantManagement.AssemblyInfo.cs
 RestaurantManagement/obj/Debug/netcoreapp3.1/Razor/Views/Home/Details.cshtml.g.cs
 *.exe
+RestaurantManagement/obj/Debug/netcoreapp3.1/RestaurantManagement.AssemblyInfoInputs.cache
+RestaurantManagement/obj/Debug/netcoreapp3.1/RestaurantManagement.AssemblyInfo.cs
