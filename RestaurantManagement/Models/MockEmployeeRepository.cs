@@ -16,7 +16,12 @@ namespace RestaurantManagement.Models
                 };
         }
 
-      
+        public Employee2 Add(Employee2 employee)
+        {
+           employee.Id= _employeeList.Max(x => x.Id) + 1;
+            _employeeList.Add(employee);
+            return employee;    
+        }
 
         public IEnumerable<Employee2> GetAllEmployee()
         {

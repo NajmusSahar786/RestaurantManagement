@@ -6,5 +6,6 @@ namespace RestaurantManagement.Models
     {
         Employee2 GetEmployee(int Id);
         IEnumerable<Employee2> GetAllEmployee();
+        Employee2 Add(Employee2 employee);
     }
 }
