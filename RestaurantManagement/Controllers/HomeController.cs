@@ -31,5 +31,9 @@ namespace RestaurantManagement.Controllers
             };
             return View(homeDetailsViewModel);
         }
+        public ViewResult Create()
+        {
+            return View();
+        }
     }
 }
