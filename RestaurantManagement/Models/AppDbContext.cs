@@ -8,5 +8,9 @@ namespace RestaurantManagement.Models
         {
         }
         public DbSet<Employee2> Employees { get; set; }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Seed();
+        }
     }
 }
