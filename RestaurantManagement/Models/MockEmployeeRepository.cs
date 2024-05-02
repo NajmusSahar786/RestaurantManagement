@@ -23,6 +23,8 @@ namespace RestaurantManagement.Models
             return employee;    
         }
 
+        
+
         public IEnumerable<Employee2> GetAllEmployee()
         {
             return _employeeList.ToList();
@@ -32,5 +34,27 @@ namespace RestaurantManagement.Models
         {
             return _employeeList.FirstOrDefault(e => e.Id == Id);
         }
+
+        public Employee2 Update(Employee2 employeeChanges)
+        {
+            Employee2 employee = _employeeList.FirstOrDefault(e => e.Id == employeeChanges.Id);
+            if (employee != null)
+            {
+                employee.Name = employeeChanges.Name;
+                employee.Email = employeeChanges.Email;
+                employee.Department = employeeChanges.Department;
+            }
+            return employee;
+        }
+        public Employee2 Delete(int Id)
+        {
+            Employee2 employee = _employeeList.FirstOrDefault(e => e.Id == Id);
+            if (employee != null)
+            {
+                _employeeList.Remove(employee);
+            }
+            return employee;
+        }
+
     }
 }

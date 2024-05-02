@@ -30,7 +30,7 @@ namespace RestaurantManagement
             services.AddDbContextPool<AppDbContext>(
                 options => options.UseSqlServer(_config.GetConnectionString("RestaurantDBConnection")));
             services.AddMvc(option => option.EnableEndpointRouting = false);
-            services.AddSingleton<IEmployee2Repository,MockEmployee2Repository>();
+            services.AddScoped<IEmployee2Repository,SQLEmployeeRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
