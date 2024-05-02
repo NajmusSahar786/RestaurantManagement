@@ -28,7 +28,7 @@ namespace RestaurantManagement
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContextPool<AppDbContext>(
-                options => options.UseSqlServer(_config.GetConnectionString("")));
+                options => options.UseSqlServer(_config.GetConnectionString("RestaurantDBConnection")));
             services.AddMvc(option => option.EnableEndpointRouting = false);
             services.AddSingleton<IEmployee2Repository,MockEmployee2Repository>();
         }
