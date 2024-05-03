@@ -1,10 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.AspNetCore.Http;
+using RestaurantManagement.Models;
+using System.ComponentModel.DataAnnotations;
 
-namespace RestaurantManagement.Models
+namespace RestaurantManagement.ViewModels
 {
-    public class Employee2
+    public class EmployeeCreateViewModel
     {
-        public int Id { get; set; }
+       
         [Required, MaxLength(50, ErrorMessage = "Name cannot exceed 50 characters")]
         public string Name { get; set; }
         [Required]
@@ -15,14 +17,6 @@ namespace RestaurantManagement.Models
 
         [Required]
         public Dept? Department { get; set; }
-        public string PhotoPath { get; set; }
-    }
-
-    public enum Dept
-    {
-        None,
-        HR,
-        IT,
-        PayRoll
+        public IFormFile Photo { get; set; }
     }
 }
