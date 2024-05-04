@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\New folder (3)\\RestaurantManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -238,7 +238,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -270,15 +270,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Home\\Edit.cshtml",
               "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Edit.cshtml",
               "RelativeToolTip": "RestaurantManagement\\Views\\Home\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-04T09:40:30.273Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -289,20 +290,20 @@
               "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Home\\Create.cshtml",
               "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Create.cshtml",
               "RelativeToolTip": "RestaurantManagement\\Views\\Home\\Create.cshtml",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAABoAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-04T08:25:46.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Controllers\\HomeController.cs",
               "RelativeToolTip": "RestaurantManagement\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAIAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T11:36:45.88Z",
               "EditorCaption": ""
@@ -341,7 +342,7 @@
               "RelativeDocumentMoniker": "RestaurantManagement\\Startup.cs",
               "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Startup.cs",
               "RelativeToolTip": "RestaurantManagement\\Startup.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAALAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T09:16:25.832Z",
               "EditorCaption": ""

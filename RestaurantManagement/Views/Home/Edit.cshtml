@@ -6,7 +6,7 @@
     var photoPath = "~/images/" + (Model.ExistingPhotoPath ?? "noimage.png");
 }
 
-<form asp-controller="home" asp-action="edit" enctype="multipart/form-data" method="post" class="mt-3">
+<form enctype="multipart/form-data" asp-controller="Home" asp-action="Edit" method="post" class="mt-3">
     <div asp-validation-summary="All" class="text-danger">
     </div>
     @*Use hidden input elements to store employee id and ExistingPhotoPath
@@ -60,6 +60,7 @@
     <div class="form-group row">
         <div class="col-sm-10">
             <button type="submit" class="btn btn-primary">Update</button>
+
             <a asp-action="index" asp-controller="home" class="btn btn-primary">Cancel</a>
         </div>
     </div>
