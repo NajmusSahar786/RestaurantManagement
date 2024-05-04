@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using RestaurantManagement.Models;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace RestaurantManagement.ViewModels
@@ -17,6 +18,7 @@ namespace RestaurantManagement.ViewModels
 
         [Required]
         public Dept? Department { get; set; }
+        public List<IFormFile> Photos { get; set; }
         public IFormFile Photo { get; set; }
     }
 }

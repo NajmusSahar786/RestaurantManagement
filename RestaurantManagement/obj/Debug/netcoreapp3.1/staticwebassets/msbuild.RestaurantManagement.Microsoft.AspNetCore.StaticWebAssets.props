@@ -592,6 +592,54 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\2.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\4577c590-3471-48ce-87fd-ac609baf48f8_1916829-mehandi4.avif))">
+      <SourceType>Package</SourceType>
+      <SourceId>RestaurantManagement</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/RestaurantManagement</BasePath>
+      <RelativePath>images\4577c590-3471-48ce-87fd-ac609baf48f8_1916829-mehandi4.avif</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\4577c590-3471-48ce-87fd-ac609baf48f8_1916829-mehandi4.avif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\4f97c889-fcd6-4e3f-92da-ed7110ff782c_MicrosoftTeams-image (3).png))">
+      <SourceType>Package</SourceType>
+      <SourceId>RestaurantManagement</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/RestaurantManagement</BasePath>
+      <RelativePath>images\4f97c889-fcd6-4e3f-92da-ed7110ff782c_MicrosoftTeams-image (3).png</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\4f97c889-fcd6-4e3f-92da-ed7110ff782c_MicrosoftTeams-image (3).png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\ae137ee2-c0b1-44d8-a09a-fac8ca7eade1_Screenshot 2024-03-18 132656.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>RestaurantManagement</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/RestaurantManagement</BasePath>
+      <RelativePath>images\ae137ee2-c0b1-44d8-a09a-fac8ca7eade1_Screenshot 2024-03-18 132656.png</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\ae137ee2-c0b1-44d8-a09a-fac8ca7eade1_Screenshot 2024-03-18 132656.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\b07b0887-1915-46e7-a8be-23b090180375_Screenshot 2024-03-12 214951.png))">
       <SourceType>Package</SourceType>
       <SourceId>RestaurantManagement</SourceId>
@@ -623,6 +671,38 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\bd0bbc13-75cf-4f60-96f5-1f5d2e12f465_h.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\cee9139e-2984-4166-8952-a7e34b99a93f_Screenshot 2024-03-18 132926.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>RestaurantManagement</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/RestaurantManagement</BasePath>
+      <RelativePath>images\cee9139e-2984-4166-8952-a7e34b99a93f_Screenshot 2024-03-18 132926.png</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\cee9139e-2984-4166-8952-a7e34b99a93f_Screenshot 2024-03-18 132926.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\d2ba9451-61ba-4aea-9446-891b41b9f3f4_MicrosoftTeams-image (3).png))">
+      <SourceType>Package</SourceType>
+      <SourceId>RestaurantManagement</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/RestaurantManagement</BasePath>
+      <RelativePath>images\d2ba9451-61ba-4aea-9446-891b41b9f3f4_MicrosoftTeams-image (3).png</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\d2ba9451-61ba-4aea-9446-891b41b9f3f4_MicrosoftTeams-image (3).png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\DefaultRoute.png))">
       <SourceType>Package</SourceType>

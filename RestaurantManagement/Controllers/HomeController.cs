@@ -12,6 +12,7 @@ using static System.Net.WebRequestMethods;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting.Internal;
 using System.IO;
+using Microsoft.AspNetCore.Http;
 
 namespace RestaurantManagement.Controllers
 {
@@ -60,19 +61,23 @@ namespace RestaurantManagement.Controllers
 
                 // If the Photo property on the incoming model object is not null, then the user
                 // has selected an image to upload.
-                if (model.Photo != null)
+                if (model.Photos != null && model.Photos.Count>0)
                 {
-                     // The image must be uploaded to the images folder in wwwroot
-                    // To get the path of the wwwroot folder we are using the inject
-                    // HostingEnvironment service provided by ASP.NET Core
-                    string uploadsFolder = Path.Combine(_hostingEnvironment.WebRootPath, "images");
-                    // To make sure the file name is unique we are appending a new
-                    // GUID value and and an underscore to the file name
-                    uniqueFileName = Guid.NewGuid().ToString() + "_" + model.Photo.FileName;
-                    string filePath = Path.Combine(uploadsFolder, uniqueFileName);
-                    // Use CopyTo() method provided by IFormFile interface to
-                    // copy the file to wwwroot/images folder
-                    model.Photo.CopyTo(new FileStream(filePath, FileMode.Create));
+                    foreach (IFormFile photo in model.Photos)
+                    {
+                        // The image must be uploaded to the images folder in wwwroot
+                        // To get the path of the wwwroot folder we are using the inject
+                        // HostingEnvironment service provided by ASP.NET Core
+                        string uploadsFolder = Path.Combine(_hostingEnvironment.WebRootPath, "images");
+                        // To make sure the file name is unique we are appending a new
+                        // GUID value and and an underscore to the file name
+                        uniqueFileName = Guid.NewGuid().ToString() + "_" + photo.FileName;
+                        string filePath = Path.Combine(uploadsFolder, uniqueFileName);
+                        // Use CopyTo() method provided by IFormFile interface to
+                        // copy the file to wwwroot/images folder
+                        photo.CopyTo(new FileStream(filePath, FileMode.Create));
+                    }
+                    
                 }
 
                 Employee2 newEmployee = new Employee2
@@ -89,6 +94,22 @@ namespace RestaurantManagement.Controllers
                 return RedirectToAction("details", new { id = newEmployee.Id });
             }
             return View();
+        }
+
+        [HttpGet]
+        [Route("Edit/{id?}")]
+        public ViewResult Edit(int id)
+        {
+            Employee2 employee = _employeeRepository.GetEmployee(id);
+            EmployeeEditViewModel employeeEditViewModel = new EmployeeEditViewModel
+            {
+                Id = employee.Id,
+                Name = employee.Name,
+                Email = employee.Email,
+                Department = employee.Department,
+                ExistingPhotoPath = employee.PhotoPath
+            };
+            return View(employeeEditViewModel);
         }
     }
 }

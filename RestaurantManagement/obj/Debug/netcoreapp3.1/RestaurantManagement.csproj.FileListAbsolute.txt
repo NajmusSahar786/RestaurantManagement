@@ -75,3 +75,4 @@ D:\New folder (3)\RestaurantManagement\RestaurantManagement\bin\Debug\netcoreapp
 D:\New folder (3)\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\RestaurantManagement.csproj.AssemblyReference.cache
 D:\New folder (3)\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
 D:\New folder (3)\RestaurantManagement\RestaurantManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder (3)\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
