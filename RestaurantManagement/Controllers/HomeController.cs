@@ -14,6 +14,8 @@ using Microsoft.Extensions.Hosting.Internal;
 using System.IO;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
 
 namespace RestaurantManagement.Controllers
 {
@@ -33,6 +35,11 @@ namespace RestaurantManagement.Controllers
         {
             var model = _employeeRepository.GetAllEmployee();
             return View(model);
+        }
+        public async Task<IActionResult> Employee()
+        {
+            var employees =  _employeeRepository.GetAllEmployee();
+            return View(employees);
         }
 
         [Route("Details/{id?}")]

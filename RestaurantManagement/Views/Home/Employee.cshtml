@@ -1,0 +1,40 @@
+﻿@model IEnumerable<RestaurantManagement.Models.Employee2>
+@{
+    ViewBag.Title = "Employee List";
+}
+<div>
+
+    <table class="table table-bordered" style="width:50%">
+      <thead>
+            <tr>
+                <th>Name</th>
+                <th>Photo</th>
+                <th>Action</th>
+            </tr>
+      </thead>
+        <tbody>
+    @foreach (var employee in Model)
+    {
+        var photoPath = "~/images/" + (employee.PhotoPath ?? "noimage.png");
+      
+      
+       
+                    <tr>
+                        <td>@employee.Name</td>
+                        <td><img class="imageThumbnail" src="@photoPath" asp-append-version="true" style="width:80px;height;90px" /></td>
+                <td>
+                            <a asp-controller="Home" asp-action="Details" asp-route-id="@employee.Id" class="btn btn-primary">View</a>
+                       
+                            <a asp-controller="Home" asp-action="Edit" asp-route-id="@employee.Id" class="btn btn-primary">Edit</a>
+                            
+                      
+                            <a href="#" class="btn btn-danger">Delete</a>
+                        </td>
+                    </tr>
+        
+             
+   
+    }
+            </tbody>
+    </table>
+</div>
