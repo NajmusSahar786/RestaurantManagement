@@ -46,6 +46,7 @@ namespace RestaurantManagement.Controllers
 
         public ViewResult Details(int? id)
         {
+            throw new Exception("Error in Details View");//We are deliberately throwing an exception using the throw keyword.
             Employee2 employee = _employeeRepository.GetEmployee(id.Value);
 
             if (employee == null)
@@ -58,6 +59,7 @@ namespace RestaurantManagement.Controllers
                 Employee = employee,
                 PageTitle = "Employee Details"
             };
+
             return View(homeDetailsViewModel);
         }
         [HttpGet]
