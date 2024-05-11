@@ -55,6 +55,7 @@ namespace RestaurantManagement
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });//first approach 
+
             //app.UseRouting();//2nd approach
             //app.UseEndpoints(endpoints => {
             //endpoints.MapControllerRoute(
