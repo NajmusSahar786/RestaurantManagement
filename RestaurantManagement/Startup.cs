@@ -29,7 +29,8 @@ namespace RestaurantManagement
         {
             services.AddDbContextPool<AppDbContext>(
                 options => options.UseSqlServer(_config.GetConnectionString("RestaurantDBConnection")));
-            services.AddMvc(option => option.EnableEndpointRouting = false);
+            //services.AddMvc(option => option.EnableEndpointRouting = false);//first approach
+            services.AddMvc();//2nd approach
             services.AddScoped<IEmployee2Repository,SQLEmployeeRepository>();
         }
 
@@ -46,11 +47,19 @@ namespace RestaurantManagement
                 app.UseStatusCodePagesWithReExecute("/Error/{0}");
             }
             app.UseStaticFiles();
-            app.UseMvc(routes =>
-            {
-                routes.MapRoute(
-                    name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+            
+
+            //app.UseMvc(routes =>
+            //{
+            //    routes.MapRoute(
+            //        name: "default",
+            //        template: "{controller=Home}/{action=Index}/{id?}");
+            //});//first approach 
+            app.UseRouting();//2nd approach
+            app.UseEndpoints(endpoints => {
+            endpoints.MapControllerRoute(
+             name: "default",
+             pattern: "{controller=Home}/{action=Index}/{id?}");
             });
 
         }
