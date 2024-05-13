@@ -16,6 +16,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Logging;
 
 namespace RestaurantManagement.Controllers
 {
@@ -24,10 +25,12 @@ namespace RestaurantManagement.Controllers
     {
         private IEmployee2Repository _employeeRepository;
         private Microsoft.AspNetCore.Hosting.IHostingEnvironment _hostingEnvironment;
-        public HomeController(IEmployee2Repository employeeRepository,Microsoft.AspNetCore.Hosting.IHostingEnvironment hostingEnvironment)
+        private readonly ILogger<HomeController> logger;
+        public HomeController(IEmployee2Repository employeeRepository,Microsoft.AspNetCore.Hosting.IHostingEnvironment hostingEnvironment, ILogger<HomeController> logger)
         {
             _employeeRepository = employeeRepository;
             this._hostingEnvironment = hostingEnvironment;
+            this.logger = logger;
         }
 
         [Route("/")] // or  [Route("~/")]  for navigating to root url when Route("Home") attribute already applied on Controller
@@ -46,7 +49,13 @@ namespace RestaurantManagement.Controllers
 
         public ViewResult Details(int? id)
         {
-            throw new Exception("Error in Details View");//We are deliberately throwing an exception using the throw keyword.
+            //throw new Exception("Error in Details View");//We are deliberately throwing an exception using the throw keyword.
+            logger.LogTrace("Trace Log");
+            logger.LogDebug("Debug Log");
+            logger.LogInformation("Information Log");
+            logger.LogWarning("Warning Log");
+            logger.LogError("Error Log");
+            logger.LogCritical("Critical Log");
             Employee2 employee = _employeeRepository.GetEmployee(id.Value);
 
             if (employee == null)
