@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kK3p3vKmdwlhriBoS+LhQX4KxjHCMkuTB2c+L/J9XAyBPrBGcyv8byOilRwRI6HZf92NQXn+X5d8QhwtSfIX4Q==",
+  "dgSpecHash": "zBjjobGzLC+6UZeV5s+bx8fDLsxHIS1KLaduPDCffg/KPVsdfHRXc6gg+2oeoIK7AWrCjJE4sfvZTGVvQpOCsA==",
   "success": true,
   "projectFilePath": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\RestaurantManagement.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,9 @@
     "C:\\Users\\najmus.sahar\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\najmus.sahar\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\najmus.sahar\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\najmus.sahar\\.nuget\\packages\\nlog\\5.3.2\\nlog.5.3.2.nupkg.sha512",
+    "C:\\Users\\najmus.sahar\\.nuget\\packages\\nlog.extensions.logging\\5.3.11\\nlog.extensions.logging.5.3.11.nupkg.sha512",
+    "C:\\Users\\najmus.sahar\\.nuget\\packages\\nlog.web.aspnetcore\\5.3.11\\nlog.web.aspnetcore.5.3.11.nupkg.sha512",
     "C:\\Users\\najmus.sahar\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\najmus.sahar\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\najmus.sahar\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
