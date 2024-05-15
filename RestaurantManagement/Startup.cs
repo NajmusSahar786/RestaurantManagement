@@ -34,6 +34,12 @@ namespace RestaurantManagement
             services.AddMvc(option => option.EnableEndpointRouting = false);//first approach
             //services.AddMvc();//2nd approach
             services.AddScoped<IEmployee2Repository,SQLEmployeeRepository>();
+            services.Configure<IdentityOptions>(options =>
+            {
+                options.Password.RequiredLength = 10;
+                options.Password.RequiredUniqueChars = 3;
+                options.Password.RequireNonAlphanumeric = false;
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
