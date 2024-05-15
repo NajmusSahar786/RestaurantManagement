@@ -7,7 +7,7 @@ namespace RestaurantManagement.Controllers
 {
     public class AccountController : Controller
     {
-        private  UserManager<IdentityUser> _userManager { get; }
+        private readonly UserManager<IdentityUser> _userManager;
         private readonly SignInManager<IdentityUser> signInManager;
 
         public AccountController(UserManager<IdentityUser> userManager,SignInManager<IdentityUser> signInManager)
