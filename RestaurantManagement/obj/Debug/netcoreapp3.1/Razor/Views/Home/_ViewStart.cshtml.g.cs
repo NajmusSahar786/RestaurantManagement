@@ -12,8 +12,29 @@ namespace AspNetCore
     using global::Microsoft.AspNetCore.Mvc;
     using global::Microsoft.AspNetCore.Mvc.Rendering;
     using global::Microsoft.AspNetCore.Mvc.ViewFeatures;
+#nullable restore
+#line 1 "D:\New folder (3)\RestaurantManagement\RestaurantManagement\Views\_ViewImports.cshtml"
+using RestaurantManagement.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "D:\New folder (3)\RestaurantManagement\RestaurantManagement\Views\_ViewImports.cshtml"
+using RestaurantManagement.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 3 "D:\New folder (3)\RestaurantManagement\RestaurantManagement\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"8c35fc0005bec9256e54b88acacf0631d6e77accb6f80280c6896da26380c869", @"/Views/Home/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"d12a82ef10ca3596fe2b6554039ddcc6563eaefda6bde57896de2a6262c0871a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"1cb1b4d55f24336a358247f316f0459c43efbd82d3d3b7cf3f5f82d750274ed8", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Home__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable

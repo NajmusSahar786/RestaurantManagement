@@ -12,8 +12,29 @@ namespace AspNetCore
     using global::Microsoft.AspNetCore.Mvc;
     using global::Microsoft.AspNetCore.Mvc.Rendering;
     using global::Microsoft.AspNetCore.Mvc.ViewFeatures;
+#nullable restore
+#line 1 "D:\New folder (3)\RestaurantManagement\RestaurantManagement\Views\_ViewImports.cshtml"
+using RestaurantManagement.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "D:\New folder (3)\RestaurantManagement\RestaurantManagement\Views\_ViewImports.cshtml"
+using RestaurantManagement.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 3 "D:\New folder (3)\RestaurantManagement\RestaurantManagement\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"1ecac91bae616b7766099254dc033d98475247adc89c9b571e264d8fd337ee4e", @"/Views/Home/EmployeeNotFound.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"d12a82ef10ca3596fe2b6554039ddcc6563eaefda6bde57896de2a6262c0871a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"1cb1b4d55f24336a358247f316f0459c43efbd82d3d3b7cf3f5f82d750274ed8", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Home_EmployeeNotFound : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<int>
     #nullable disable
@@ -63,7 +84,7 @@ namespace AspNetCore
 #line hidden
 #nullable disable
             WriteLiteral(" cannot be found\r\n    </h5>\r\n</div>\r\n\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1ecac91bae616b7766099254dc033d98475247adc89c9b571e264d8fd337ee4e4885", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1ecac91bae616b7766099254dc033d98475247adc89c9b571e264d8fd337ee4e5497", async() => {
                 WriteLiteral("Click here to see the list of all employees");
             }
             );

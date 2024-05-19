@@ -12,8 +12,29 @@ namespace AspNetCore
     using global::Microsoft.AspNetCore.Mvc;
     using global::Microsoft.AspNetCore.Mvc.Rendering;
     using global::Microsoft.AspNetCore.Mvc.ViewFeatures;
+#nullable restore
+#line 1 "D:\New folder (3)\RestaurantManagement\RestaurantManagement\Views\_ViewImports.cshtml"
+using RestaurantManagement.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "D:\New folder (3)\RestaurantManagement\RestaurantManagement\Views\_ViewImports.cshtml"
+using RestaurantManagement.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 3 "D:\New folder (3)\RestaurantManagement\RestaurantManagement\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"7fe30707870c525fdaafc5b89fb9b518c829f3cab014e03aca1b96ba38cd31ad", @"/Views/Home/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"d12a82ef10ca3596fe2b6554039ddcc6563eaefda6bde57896de2a6262c0871a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"1cb1b4d55f24336a358247f316f0459c43efbd82d3d3b7cf3f5f82d750274ed8", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<RestaurantManagement.Models.Employee2>>
     #nullable disable
@@ -91,7 +112,7 @@ namespace AspNetCore
 #line hidden
 #nullable disable
             WriteLiteral("</h3>\r\n            </div>\r\n            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "7fe30707870c525fdaafc5b89fb9b518c829f3cab014e03aca1b96ba38cd31ad6246", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "7fe30707870c525fdaafc5b89fb9b518c829f3cab014e03aca1b96ba38cd31ad6858", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_ImageTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ImageTagHelper>();
@@ -124,7 +145,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ImageTagHelper.AppendVersion = true;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n\r\n            <div class=\"card-footer text-center\">\r\n\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7fe30707870c525fdaafc5b89fb9b518c829f3cab014e03aca1b96ba38cd31ad8487", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7fe30707870c525fdaafc5b89fb9b518c829f3cab014e03aca1b96ba38cd31ad9099", async() => {
                 WriteLiteral("View");
             }
             );
@@ -158,7 +179,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ImageTagHelper.AppendVersion = true;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7fe30707870c525fdaafc5b89fb9b518c829f3cab014e03aca1b96ba38cd31ad10996", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7fe30707870c525fdaafc5b89fb9b518c829f3cab014e03aca1b96ba38cd31ad11608", async() => {
                 WriteLiteral("Edit");
             }
             );
