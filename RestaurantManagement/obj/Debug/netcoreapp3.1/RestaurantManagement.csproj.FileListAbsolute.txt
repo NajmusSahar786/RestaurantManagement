@@ -86,3 +86,4 @@ D:\New folder (3)\RestaurantManagement\RestaurantManagement\bin\Debug\netcoreapp
 D:\New folder (3)\RestaurantManagement\RestaurantManagement\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
 D:\New folder (3)\RestaurantManagement\RestaurantManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\New folder (3)\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\New folder (3)\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
