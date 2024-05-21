@@ -1,305 +1,305 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\New folder (3)\\RestaurantManagement\\",
+  "WorkspaceRootPath": "D:\\RestaurantManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\migrations\\20240503073121_addphotopath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\migrations\\20240503073121_addphotopath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\migrations\\20240502111610_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\migrations\\20240502111610_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\migrations\\20240514085619_addingidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\migrations\\20240503073121_addphotopath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\migrations\\20240503073121_addphotopath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\migrations\\20240502111610_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\migrations\\20240502111610_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\migrations\\20240514085619_addingidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\migrations\\20240514085619_addingidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\sqlemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\sqlemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\sqlemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\restaurantmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\restaurantmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\restaurantmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\error\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\views\\error\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\error\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\employee2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\employee2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\employee2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\mockemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\mockemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\mockemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\iemployee2repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\iemployee2repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\iemployee2repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\home\\employeenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\views\\home\\employeenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\home\\employeenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\viewmodels\\employeeeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\viewmodels\\employeeeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\viewmodels\\employeeeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\migrations\\20240502113239_alteremployeesseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\migrations\\20240502113239_alteremployeesseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\migrations\\20240502113239_alteremployeesseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\migrations\\20240502113010_seedemployeestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\migrations\\20240502113010_seedemployeestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\migrations\\20240502113010_seedemployeestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\home\\employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\views\\home\\employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\home\\employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\viewmodels\\employeecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\viewmodels\\employeecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\viewmodels\\employeecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\cashtrasaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\cashtrasaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\cashtrasaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\creditcardtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\creditcardtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\creditcardtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\checktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\checktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\checktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\mealitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\mealitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\mealitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\tableseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\tableseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\tableseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\tablechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\tablechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\tablechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\postalnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\postalnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\postalnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\models\\menusection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\models\\menusection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\menusection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\home\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\views\\home\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\home\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\wwwroot\\images\\defaultroute.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\wwwroot\\images\\defaultroute.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\wwwroot\\images\\defaultroute.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\viewmodels\\homedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\viewmodels\\homedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\viewmodels\\homedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\wwwroot\\js\\customscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\wwwroot\\js\\customscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\wwwroot\\js\\customscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\wwwroot\\foo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\wwwroot\\foo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\wwwroot\\foo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\wwwroot\\default.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\wwwroot\\default.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\wwwroot\\default.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\new folder (3)\\restaurantmanagement\\restaurantmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|d:\\restaurantmanagement\\restaurantmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A0F310A5-C06A-489F-A2A4-C32313EBD68D}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -310,15 +310,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Details.cshtml",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Home\\Details.cshtml",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Details.cshtml",
               "RelativeToolTip": "RestaurantManagement\\Views\\Home\\Details.cshtml",
               "ViewState": "AQIAABwAAAAAAAAAAEBVwD4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -329,9 +329,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "RestaurantManagement\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -340,117 +340,127 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Edit.cshtml",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Home\\Edit.cshtml",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Edit.cshtml",
               "RelativeToolTip": "RestaurantManagement\\Views\\Home\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-04T09:40:30.273Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Startup.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Startup.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Startup.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Startup.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Startup.cs",
               "RelativeToolTip": "RestaurantManagement\\Startup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T09:16:25.832Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "RestaurantManagement\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB8AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T08:02:57.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "RestaurantManagement\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "RestaurantManagement\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T07:54:15.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "RestaurantManagement\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T10:52:18.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Controllers\\AccountController.cs",
               "RelativeToolTip": "RestaurantManagement\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAAAEQAAABQAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T11:11:58.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "RestaurantManagement\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "RestaurantManagement\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T09:38:28.457Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantManagement\\appsettings.json",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\appsettings.json",
+              "RelativeToolTip": "RestaurantManagement\\appsettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABUAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T09:16:22.692Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RestaurantManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T10:52:18.094Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "RestaurantManagement\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "RestaurantManagement\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAvAAAA",
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "RestaurantManagement\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T11:36:45.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T07:54:15.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "RestaurantManagement\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T08:02:57.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RestaurantManagement\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T09:38:28.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RestaurantManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:36:45.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "20240503073121_AddPhotoPath.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240503073121_AddPhotoPath.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240503073121_AddPhotoPath.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Migrations\\20240503073121_AddPhotoPath.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240503073121_AddPhotoPath.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240503073121_AddPhotoPath.cs",
               "RelativeToolTip": "RestaurantManagement\\Migrations\\20240503073121_AddPhotoPath.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -458,11 +468,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Account\\Register.cshtml",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Account\\Register.cshtml",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "RestaurantManagement\\Views\\Account\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -470,11 +480,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\ViewModels\\RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\ViewModels\\RegisterViewModel.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\ViewModels\\RegisterViewModel.cs",
               "RelativeToolTip": "RestaurantManagement\\ViewModels\\RegisterViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -482,11 +492,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\AppDbContext.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\AppDbContext.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -494,11 +504,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "20240502111610_InitialMigration.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240502111610_InitialMigration.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240502111610_InitialMigration.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Migrations\\20240502111610_InitialMigration.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240502111610_InitialMigration.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240502111610_InitialMigration.cs",
               "RelativeToolTip": "RestaurantManagement\\Migrations\\20240502111610_InitialMigration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -506,23 +516,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\appsettings.json",
-              "RelativeDocumentMoniker": "RestaurantManagement\\appsettings.json",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\appsettings.json",
-              "RelativeToolTip": "RestaurantManagement\\appsettings.json",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAABYAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-22T09:16:22.692Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
               "Title": "20240514085619_AddingIdentity.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240514085619_AddingIdentity.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240514085619_AddingIdentity.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Migrations\\20240514085619_AddingIdentity.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240514085619_AddingIdentity.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240514085619_AddingIdentity.cs",
               "RelativeToolTip": "RestaurantManagement\\Migrations\\20240514085619_AddingIdentity.cs",
               "ViewState": "AQIAAJMAAAAAAAAAAAAAAKAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -532,9 +530,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "ErrorController.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Controllers\\ErrorController.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Controllers\\ErrorController.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Controllers\\ErrorController.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Controllers\\ErrorController.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Controllers\\ErrorController.cs",
               "RelativeToolTip": "RestaurantManagement\\Controllers\\ErrorController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -544,9 +542,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "nlog.config",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\nlog.config",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\nlog.config",
               "RelativeDocumentMoniker": "RestaurantManagement\\nlog.config",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\nlog.config",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\nlog.config",
               "RelativeToolTip": "RestaurantManagement\\nlog.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -556,9 +554,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Program.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Program.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Program.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Program.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Program.cs",
               "RelativeToolTip": "RestaurantManagement\\Program.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -568,9 +566,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "SQLEmployeeRepository.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\SQLEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\SQLEmployeeRepository.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\SQLEmployeeRepository.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\SQLEmployeeRepository.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\SQLEmployeeRepository.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\SQLEmployeeRepository.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAiwCsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -580,9 +578,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Employee2.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Employee2.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Employee2.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Employee2.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Employee2.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Employee2.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Employee2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -592,9 +590,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "nlog.config",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\nlog.config",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\nlog.config",
               "RelativeDocumentMoniker": "RestaurantManagement\\nlog.config",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\nlog.config",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\nlog.config",
               "RelativeToolTip": "RestaurantManagement\\nlog.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -604,9 +602,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "RestaurantManagement.csproj",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\RestaurantManagement.csproj",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\RestaurantManagement.csproj",
               "RelativeDocumentMoniker": "RestaurantManagement\\RestaurantManagement.csproj",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\RestaurantManagement.csproj",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\RestaurantManagement.csproj",
               "RelativeToolTip": "RestaurantManagement\\RestaurantManagement.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -616,9 +614,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Create.cshtml",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Home\\Create.cshtml",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Create.cshtml",
               "RelativeToolTip": "RestaurantManagement\\Views\\Home\\Create.cshtml",
               "ViewState": "AQIAABcAAAAAAAAAAIBJwB8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -628,9 +626,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "NotFound.cshtml",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Error\\NotFound.cshtml",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Error\\NotFound.cshtml",
               "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Error\\NotFound.cshtml",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Error\\NotFound.cshtml",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Error\\NotFound.cshtml",
               "RelativeToolTip": "RestaurantManagement\\Views\\Error\\NotFound.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -640,9 +638,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "ModelBuilderExtensions.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\ModelBuilderExtensions.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\ModelBuilderExtensions.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\ModelBuilderExtensions.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\ModelBuilderExtensions.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\ModelBuilderExtensions.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\ModelBuilderExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -652,9 +650,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "libman.json",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\libman.json",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\libman.json",
               "RelativeDocumentMoniker": "RestaurantManagement\\libman.json",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\libman.json",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\libman.json",
               "RelativeToolTip": "RestaurantManagement\\libman.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -664,9 +662,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "MockEmployeeRepository.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\MockEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\MockEmployeeRepository.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\MockEmployeeRepository.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\MockEmployeeRepository.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\MockEmployeeRepository.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\MockEmployeeRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAABBwDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -676,9 +674,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "IEmployee2Repository.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\IEmployee2Repository.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\IEmployee2Repository.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\IEmployee2Repository.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\IEmployee2Repository.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\IEmployee2Repository.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\IEmployee2Repository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -688,9 +686,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "RestaurantManagement\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -700,9 +698,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "EmployeeNotFound.cshtml",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\EmployeeNotFound.cshtml",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\EmployeeNotFound.cshtml",
               "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Home\\EmployeeNotFound.cshtml",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\EmployeeNotFound.cshtml",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\EmployeeNotFound.cshtml",
               "RelativeToolTip": "RestaurantManagement\\Views\\Home\\EmployeeNotFound.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -712,9 +710,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "EmployeeEditViewModel.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\ViewModels\\EmployeeEditViewModel.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\ViewModels\\EmployeeEditViewModel.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\ViewModels\\EmployeeEditViewModel.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\ViewModels\\EmployeeEditViewModel.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\ViewModels\\EmployeeEditViewModel.cs",
               "RelativeToolTip": "RestaurantManagement\\ViewModels\\EmployeeEditViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -724,9 +722,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "20240502113239_AlterEmployeesSeedData.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240502113239_AlterEmployeesSeedData.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240502113239_AlterEmployeesSeedData.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Migrations\\20240502113239_AlterEmployeesSeedData.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240502113239_AlterEmployeesSeedData.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240502113239_AlterEmployeesSeedData.cs",
               "RelativeToolTip": "RestaurantManagement\\Migrations\\20240502113239_AlterEmployeesSeedData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -736,9 +734,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "RestaurantManagement\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Properties\\launchSettings.json",
               "RelativeToolTip": "RestaurantManagement\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAYAAAAAAAAAAADwvw4AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -748,9 +746,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "RestaurantManagement\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "RestaurantManagement\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -760,9 +758,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "20240502113010_SeedEmployeesTable.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240502113010_SeedEmployeesTable.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240502113010_SeedEmployeesTable.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Migrations\\20240502113010_SeedEmployeesTable.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240502113010_SeedEmployeesTable.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Migrations\\20240502113010_SeedEmployeesTable.cs",
               "RelativeToolTip": "RestaurantManagement\\Migrations\\20240502113010_SeedEmployeesTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -772,9 +770,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "Employee.cshtml",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Employee.cshtml",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Employee.cshtml",
               "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Home\\Employee.cshtml",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Employee.cshtml",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\Employee.cshtml",
               "RelativeToolTip": "RestaurantManagement\\Views\\Home\\Employee.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -784,9 +782,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "Restaurant.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Restaurant.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Restaurant.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Restaurant.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Restaurant.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Restaurant.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Restaurant.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -796,9 +794,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "EmployeeCreateViewModel.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\ViewModels\\EmployeeCreateViewModel.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\ViewModels\\EmployeeCreateViewModel.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\ViewModels\\EmployeeCreateViewModel.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\ViewModels\\EmployeeCreateViewModel.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\ViewModels\\EmployeeCreateViewModel.cs",
               "RelativeToolTip": "RestaurantManagement\\ViewModels\\EmployeeCreateViewModel.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAEBdwBUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -808,9 +806,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Customer.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Customer.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Customer.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Customer.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -820,9 +818,9 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "CashTrasaction.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\CashTrasaction.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\CashTrasaction.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\CashTrasaction.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\CashTrasaction.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\CashTrasaction.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\CashTrasaction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -832,9 +830,9 @@
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "CreditCardTransaction.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\CreditCardTransaction.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\CreditCardTransaction.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\CreditCardTransaction.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\CreditCardTransaction.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\CreditCardTransaction.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\CreditCardTransaction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -844,9 +842,9 @@
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "CheckTransaction.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\CheckTransaction.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\CheckTransaction.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\CheckTransaction.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\CheckTransaction.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\CheckTransaction.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\CheckTransaction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -856,9 +854,9 @@
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "Branch.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Branch.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Branch.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Branch.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Branch.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Branch.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Branch.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -868,9 +866,9 @@
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "Bill.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Bill.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Bill.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Bill.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Bill.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Bill.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Bill.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -880,9 +878,9 @@
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "Account.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Account.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Account.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Account.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Account.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Account.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Account.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -892,9 +890,9 @@
               "$type": "Document",
               "DocumentIndex": 47,
               "Title": "Table.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Table.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Table.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Table.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Table.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Table.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Table.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -904,9 +902,9 @@
               "$type": "Document",
               "DocumentIndex": 48,
               "Title": "Chef.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Chef.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Chef.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Chef.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Chef.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Chef.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Chef.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -916,9 +914,9 @@
               "$type": "Document",
               "DocumentIndex": 49,
               "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Employee.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Employee.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Employee.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Employee.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -928,9 +926,9 @@
               "$type": "Document",
               "DocumentIndex": 50,
               "Title": "Receptionist.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Receptionist.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Receptionist.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Receptionist.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Receptionist.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Receptionist.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Receptionist.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -940,9 +938,9 @@
               "$type": "Document",
               "DocumentIndex": 51,
               "Title": "MenuItem.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\MenuItem.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\MenuItem.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\MenuItem.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\MenuItem.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\MenuItem.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\MenuItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -952,9 +950,9 @@
               "$type": "Document",
               "DocumentIndex": 52,
               "Title": "Menu.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Menu.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Menu.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Menu.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Menu.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Menu.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Menu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -964,9 +962,9 @@
               "$type": "Document",
               "DocumentIndex": 53,
               "Title": "MealItem.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\MealItem.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\MealItem.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\MealItem.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\MealItem.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\MealItem.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\MealItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -976,9 +974,9 @@
               "$type": "Document",
               "DocumentIndex": 54,
               "Title": "Meal.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Meal.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Meal.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Meal.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Meal.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Meal.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Meal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -988,9 +986,9 @@
               "$type": "Document",
               "DocumentIndex": 55,
               "Title": "Manager.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Manager.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Manager.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Manager.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Manager.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Manager.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Manager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1000,9 +998,9 @@
               "$type": "Document",
               "DocumentIndex": 56,
               "Title": "Waiter.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Waiter.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Waiter.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Waiter.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Waiter.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Waiter.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Waiter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1012,9 +1010,9 @@
               "$type": "Document",
               "DocumentIndex": 57,
               "Title": "TableSeat.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\TableSeat.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\TableSeat.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\TableSeat.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\TableSeat.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\TableSeat.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\TableSeat.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1024,9 +1022,9 @@
               "$type": "Document",
               "DocumentIndex": 58,
               "Title": "TableChart.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\TableChart.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\TableChart.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\TableChart.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\TableChart.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\TableChart.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\TableChart.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1036,9 +1034,9 @@
               "$type": "Document",
               "DocumentIndex": 59,
               "Title": "Reservation.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Reservation.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Reservation.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Reservation.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Reservation.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Reservation.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Reservation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1048,9 +1046,9 @@
               "$type": "Document",
               "DocumentIndex": 60,
               "Title": "PostalNotification.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\PostalNotification.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\PostalNotification.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\PostalNotification.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\PostalNotification.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\PostalNotification.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\PostalNotification.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1060,9 +1058,9 @@
               "$type": "Document",
               "DocumentIndex": 62,
               "Title": "Payment.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Payment.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Payment.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Payment.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Payment.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Payment.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1072,9 +1070,9 @@
               "$type": "Document",
               "DocumentIndex": 63,
               "Title": "Order.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Order.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Order.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Order.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Order.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Order.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1084,9 +1082,9 @@
               "$type": "Document",
               "DocumentIndex": 64,
               "Title": "Notification.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Notification.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Notification.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Notification.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Notification.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Notification.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1096,9 +1094,9 @@
               "$type": "Document",
               "DocumentIndex": 65,
               "Title": "MenuSection.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\MenuSection.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\MenuSection.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\MenuSection.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\MenuSection.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\MenuSection.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\MenuSection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1108,9 +1106,9 @@
               "$type": "Document",
               "DocumentIndex": 61,
               "Title": "Person.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Person.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Person.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Person.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Models\\Person.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Models\\Person.cs",
               "RelativeToolTip": "RestaurantManagement\\Models\\Person.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1120,9 +1118,9 @@
               "$type": "Document",
               "DocumentIndex": 67,
               "Title": "DefaultRoute.png -  [English (United States)] - PNG [1920x1080, 32 bit, PNG]",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\wwwroot\\images\\DefaultRoute.png",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\wwwroot\\images\\DefaultRoute.png",
               "RelativeDocumentMoniker": "RestaurantManagement\\wwwroot\\images\\DefaultRoute.png",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\wwwroot\\images\\DefaultRoute.png -  [English (United States)] - PNG [1920x1080, 32 bit, PNG]",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\wwwroot\\images\\DefaultRoute.png -  [English (United States)] - PNG [1920x1080, 32 bit, PNG]",
               "RelativeToolTip": "RestaurantManagement\\wwwroot\\images\\DefaultRoute.png -  [English (United States)] - PNG [1920x1080, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-04-22T19:13:21.596Z",
@@ -1132,9 +1130,9 @@
               "$type": "Document",
               "DocumentIndex": 70,
               "Title": "CustomScript.js",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\wwwroot\\js\\CustomScript.js",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\wwwroot\\js\\CustomScript.js",
               "RelativeDocumentMoniker": "RestaurantManagement\\wwwroot\\js\\CustomScript.js",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\wwwroot\\js\\CustomScript.js",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\wwwroot\\js\\CustomScript.js",
               "RelativeToolTip": "RestaurantManagement\\wwwroot\\js\\CustomScript.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -1144,9 +1142,9 @@
               "$type": "Document",
               "DocumentIndex": 68,
               "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Shared\\_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeToolTip": "RestaurantManagement\\Views\\Shared\\_AdminLayout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1156,9 +1154,9 @@
               "$type": "Document",
               "DocumentIndex": 66,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "RestaurantManagement\\Views\\Home\\_ViewStart.cshtml",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\_ViewStart.cshtml",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\Views\\Home\\_ViewStart.cshtml",
               "RelativeToolTip": "RestaurantManagement\\Views\\Home\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1168,9 +1166,9 @@
               "$type": "Document",
               "DocumentIndex": 69,
               "Title": "HomeDetailsViewModel.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\ViewModels\\HomeDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\ViewModels\\HomeDetailsViewModel.cs",
               "RelativeDocumentMoniker": "RestaurantManagement\\ViewModels\\HomeDetailsViewModel.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\ViewModels\\HomeDetailsViewModel.cs",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\ViewModels\\HomeDetailsViewModel.cs",
               "RelativeToolTip": "RestaurantManagement\\ViewModels\\HomeDetailsViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1180,9 +1178,9 @@
               "$type": "Document",
               "DocumentIndex": 72,
               "Title": "foo.html",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\wwwroot\\foo.html",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\wwwroot\\foo.html",
               "RelativeDocumentMoniker": "RestaurantManagement\\wwwroot\\foo.html",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\wwwroot\\foo.html",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\wwwroot\\foo.html",
               "RelativeToolTip": "RestaurantManagement\\wwwroot\\foo.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -1192,9 +1190,9 @@
               "$type": "Document",
               "DocumentIndex": 71,
               "Title": "test.html",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\test.html",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\test.html",
               "RelativeDocumentMoniker": "RestaurantManagement\\test.html",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\test.html",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\test.html",
               "RelativeToolTip": "RestaurantManagement\\test.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -1204,9 +1202,9 @@
               "$type": "Document",
               "DocumentIndex": 73,
               "Title": "default.html",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\wwwroot\\default.html",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\wwwroot\\default.html",
               "RelativeDocumentMoniker": "RestaurantManagement\\wwwroot\\default.html",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\wwwroot\\default.html",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\wwwroot\\default.html",
               "RelativeToolTip": "RestaurantManagement\\wwwroot\\default.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -1216,9 +1214,9 @@
               "$type": "Document",
               "DocumentIndex": 74,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\RestaurantManagement\\RestaurantManagement\\appsettings.Development.json",
               "RelativeDocumentMoniker": "RestaurantManagement\\appsettings.Development.json",
-              "ToolTip": "D:\\New folder (3)\\RestaurantManagement\\RestaurantManagement\\appsettings.Development.json",
+              "ToolTip": "D:\\RestaurantManagement\\RestaurantManagement\\appsettings.Development.json",
               "RelativeToolTip": "RestaurantManagement\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
