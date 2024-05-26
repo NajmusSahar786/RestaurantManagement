@@ -1,7 +1,9 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -31,8 +33,15 @@ namespace RestaurantManagement
             services.AddDbContextPool<AppDbContext>(
                 options => options.UseSqlServer(_config.GetConnectionString("RestaurantDBConnection")));
             services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
-            services.AddMvc(option => option.EnableEndpointRouting = false);//first approach
+            //services.AddMvc(option => option.EnableEndpointRouting = false);//first approach
             //services.AddMvc();//2nd approach
+            services.AddMvc(config => {
+                var policy = new AuthorizationPolicyBuilder()
+                                .RequireAuthenticatedUser()
+                                .Build();
+                config.Filters.Add(new AuthorizeFilter(policy));
+            });
+
             services.AddScoped<IEmployee2Repository,SQLEmployeeRepository>();
           
         }
@@ -52,19 +61,21 @@ namespace RestaurantManagement
             app.UseStaticFiles();
             app.UseAuthentication();
 
-            app.UseMvc(routes =>
+            //app.UseMvc(routes =>
+            //{
+            //    routes.MapRoute(
+            //        name: "default",
+            //        template: "{controller=Home}/{action=Index}/{id?}");
+            //});//first approach 
+            
+            app.UseRouting();//2nd approach
+            app.UseAuthorization();
+            app.UseEndpoints(endpoints =>
             {
-                routes.MapRoute(
-                    name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
-            });//first approach 
-
-            //app.UseRouting();//2nd approach
-            //app.UseEndpoints(endpoints => {
-            //endpoints.MapControllerRoute(
-             //name: "default",
-             //pattern: "{controller=Home}/{action=Index}/{id?}");
-            //});
+                endpoints.MapControllerRoute(
+                 name: "default",
+                 pattern: "{controller=Home}/{action=Index}/{id?}");
+            });
 
         }
     }
