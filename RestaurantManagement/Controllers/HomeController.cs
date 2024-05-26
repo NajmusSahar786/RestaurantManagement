@@ -35,6 +35,7 @@ namespace RestaurantManagement.Controllers
         }
 
         [Route("/")] // or  [Route("~/")]  for navigating to root url when Route("Home") attribute already applied on Controller
+        [AllowAnonymous]
         public IActionResult Index()
         {
             var model = _employeeRepository.GetAllEmployee();
@@ -47,7 +48,7 @@ namespace RestaurantManagement.Controllers
         }
 
         [Route("Details/{id?}")]
-
+        [AllowAnonymous]
         public ViewResult Details(int? id)
         {
             //throw new Exception("Error in Details View");//We are deliberately throwing an exception using the throw keyword.
