@@ -17,6 +17,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Logging;
+using Microsoft.AspNetCore.Authorization;
 
 namespace RestaurantManagement.Controllers
 {
@@ -72,11 +73,13 @@ namespace RestaurantManagement.Controllers
             return View(homeDetailsViewModel);
         }
         [HttpGet]
+        [Authorize]
         public ViewResult Create()
         {
             return View();
         }
         [HttpPost]
+        [Authorize]
         //Model binding maps data in an HTTP request to controller action method parameters
         //The action parameters may be simple types such as integers, strings, etc or complex types like Customer, Employee, Order etc.
         public IActionResult Create(EmployeeCreateViewModel model)
@@ -106,6 +109,8 @@ namespace RestaurantManagement.Controllers
         }
 
         [HttpGet]
+        [Authorize]
+
         public ViewResult Edit(int id)
         {
             Employee2 employee = _employeeRepository.GetEmployee(id);
@@ -123,6 +128,7 @@ namespace RestaurantManagement.Controllers
         // Through model binding, the action method parameter
         // EmployeeEditViewModel receives the posted edit form data
         [HttpPost]
+        [Authorize]
         public IActionResult Edit(EmployeeEditViewModel model)
         {
             // Check if the provided data is valid, if not rerender the edit view
