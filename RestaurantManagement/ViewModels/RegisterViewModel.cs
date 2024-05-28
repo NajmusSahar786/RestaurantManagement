@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using RestaurantManagement.Utilities;
 using System.ComponentModel.DataAnnotations;
 
 namespace RestaurantManagement.ViewModels
@@ -8,6 +9,7 @@ namespace RestaurantManagement.ViewModels
         [Required]
         [EmailAddress]
         [Remote(action: "IsEmailInUse", controller: "Account")]
+        [ValidEmailDomain(allowedDomain: "pragimtech.com",ErrorMessage ="Email Domain must be pragimtech.com")]
         public string Email { get; set; }
 
         [Required]
