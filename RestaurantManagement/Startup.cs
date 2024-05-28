@@ -32,7 +32,7 @@ namespace RestaurantManagement
         {
             services.AddDbContextPool<AppDbContext>(
                 options => options.UseSqlServer(_config.GetConnectionString("RestaurantDBConnection")));
-            services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
+            services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
             //services.AddMvc(option => option.EnableEndpointRouting = false);//first approach
             //services.AddMvc();//2nd approach
             services.AddMvc(config => {

@@ -6,6 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20240528140202_Extend_IdentityUser.cs" />
+    <Compile Remove="Migrations\20240528140202_Extend_IdentityUser.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="wwwroot\default.html" />
   </ItemGroup>
 
