@@ -178,3 +178,4 @@ D:\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\RestaurantM
 D:\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\RestaurantManagement.genruntimeconfig.cache
 D:\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
 D:\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+D:\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
