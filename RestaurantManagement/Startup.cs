@@ -33,14 +33,16 @@ namespace RestaurantManagement
             services.AddDbContextPool<AppDbContext>(
                 options => options.UseSqlServer(_config.GetConnectionString("RestaurantDBConnection")));
             //services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
-            services.AddIdentity<IdentityUser, IdentityRole>(options =>
+            services.AddIdentity<ApplicationUser, IdentityRole>(options =>
             {
                 options.Password.RequiredLength = 6;
                 options.Password.RequiredUniqueChars = 1;
                 options.Password.RequireLowercase = true;
                 options.Password.RequireUppercase = false;
                 options.Password.RequireDigit = true;
-            });
+            })
+                .AddEntityFrameworkStores<AppDbContext>();
+
             //services.AddMvc(option => option.EnableEndpointRouting = false);//first approach
             //services.AddMvc();//2nd approach
             services.AddMvc(config => {
