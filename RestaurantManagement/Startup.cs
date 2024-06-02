@@ -40,7 +40,7 @@ namespace RestaurantManagement
                 options.Password.RequireLowercase = true;
                 options.Password.RequireUppercase = false;
                 options.Password.RequireDigit = true;
-            });
+            }).AddEntityFrameworkStores<AppDbContext>();
             //services.AddMvc(option => option.EnableEndpointRouting = false);//first approach
             //services.AddMvc();//2nd approach
             services.AddMvc(config => {
