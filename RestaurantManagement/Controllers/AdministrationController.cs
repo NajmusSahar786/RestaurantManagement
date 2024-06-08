@@ -11,8 +11,7 @@ using System.Threading.Tasks;
 
 namespace RestaurantManagement.Controllers
 {
-    [Authorize(Roles = "Admin")]
-    [Authorize(Roles = "User")]
+    [Authorize(Roles = "Admin, User")]
     public class AdministrationController : Controller
     {
         private readonly RoleManager<IdentityRole> roleManager;
@@ -202,6 +201,23 @@ namespace RestaurantManagement.Controllers
 
             return RedirectToAction("EditRole", new { Id = roleId });
 
+        }
+
+        public ActionResult ABC()
+        {
+            return View();
+        }
+
+        [Authorize(Roles = "Admin")]
+        public ActionResult XYZ()
+        {
+            return View();
+        }
+
+        [AllowAnonymous]
+        public ActionResult Anyone()
+        {
+            return View();
         }
     }
 }
