@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using RestaurantManagement.Models;
 using RestaurantManagement.ViewModels;
 using System.Collections.Generic;
@@ -16,10 +18,12 @@ namespace RestaurantManagement.Controllers
     {
         private readonly RoleManager<IdentityRole> roleManager;
         private readonly UserManager<ApplicationUser> userManager;
-        public AdministrationController(RoleManager<IdentityRole> roleManager, UserManager<ApplicationUser> userManager)
+        private readonly ILogger<AdministrationController> logger;
+        public AdministrationController(RoleManager<IdentityRole> roleManager, UserManager<ApplicationUser> userManager, ILogger<AdministrationController> logger)
         {
             this.roleManager = roleManager;
             this.userManager = userManager;
+            this.logger = logger;
         }
 
 
@@ -89,9 +93,9 @@ namespace RestaurantManagement.Controllers
                 // object is then passed to the view for display
                 var isRole = await userManager.IsInRoleAsync(user, role.Name);
                 if (await userManager.IsInRoleAsync(user, role.Name))
-                    {
-                        model.Users.Add(user.UserName);
-                    }
+                {
+                    model.Users.Add(user.UserName);
+                }
 
             }
 
@@ -130,7 +134,7 @@ namespace RestaurantManagement.Controllers
         }
 
 
-    
+
         [HttpGet]
         public async Task<IActionResult> EditUsersInRole(string roleId)
         {
@@ -318,18 +322,23 @@ namespace RestaurantManagement.Controllers
             }
 
         }
-       [HttpPost]
-       public async Task<IActionResult> DeleteRole(string id)
-            {
-                var role = await roleManager.FindByIdAsync(id);
+        [HttpPost]
+        public async Task<IActionResult> DeleteRole(string id)
+        {
+            var role = await roleManager.FindByIdAsync(id);
 
-                if (role == null)
+            if (role == null)
+            {
+                ViewBag.ErrorMessage = $"Role with Id = {id} cannot be found";
+                return View("NotFound");
+            }
+            else
+            {
+                // Wrap the code in a try/catch block
+                try
                 {
-                    ViewBag.ErrorMessage = $"Role with Id = {id} cannot be found";
-                    return View("NotFound");
-                }
-                else
-                {
+                    //throw new Exception("Test Exception");
+
                     var result = await roleManager.DeleteAsync(role);
 
                     if (result.Succeeded)
@@ -344,6 +353,21 @@ namespace RestaurantManagement.Controllers
 
                     return View("ListRoles");
                 }
+                // If the exception is DbUpdateException, we know we are not able to
+                // delete the role as there are users in the role being deleted
+                catch (DbUpdateException ex)
+                {
+                    //Log the exception to a file. We discussed logging to a file
+                    // using Nlog in Part 63 of ASP.NET Core tutorial
+                    logger.LogError($"Exception Occured : {ex}");
+                    // Pass the ErrorTitle and ErrorMessage that you want to show to
+                    // the user using ViewBag. The Error view retrieves this data
+                    // from the ViewBag and displays to the user.
+                    ViewBag.ErrorTitle = $"{role.Name} role is in use";
+                    ViewBag.ErrorMessage = $"{role.Name} role cannot be deleted as there are users in this role. If you want to delete this role, please remove the users from the role and then try to delete";
+                    return View("Error");
+                }
             }
+        }
     }
 }
