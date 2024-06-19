@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using RestaurantManagement.Models;
 using RestaurantManagement.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics.Eventing.Reader;
 using System.Linq;
@@ -337,7 +338,7 @@ namespace RestaurantManagement.Controllers
                 // Wrap the code in a try/catch block
                 try
                 {
-                    //throw new Exception("Test Exception");
+                    throw new Exception("Test Exception");
 
                     var result = await roleManager.DeleteAsync(role);
 
