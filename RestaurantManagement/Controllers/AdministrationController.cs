@@ -338,7 +338,7 @@ namespace RestaurantManagement.Controllers
                 // Wrap the code in a try/catch block
                 try
                 {
-                    throw new Exception("Test Exception");
+                    //throw new Exception("Test Exception");
 
                     var result = await roleManager.DeleteAsync(role);
 
@@ -360,7 +360,7 @@ namespace RestaurantManagement.Controllers
                 {
                     //Log the exception to a file. We discussed logging to a file
                     // using Nlog in Part 63 of ASP.NET Core tutorial
-                    logger.LogError($"Exception Occured : {ex}");
+                    logger.LogError($"Error Deleting role : {ex}");
                     // Pass the ErrorTitle and ErrorMessage that you want to show to
                     // the user using ViewBag. The Error view retrieves this data
                     // from the ViewBag and displays to the user.
