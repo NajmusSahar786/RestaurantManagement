@@ -54,13 +54,17 @@ namespace RestaurantManagement
                 config.Filters.Add(new AuthorizeFilter(policy));
             });
             //claim based authorization
+            //claims policy
             services.AddAuthorization(options =>
             {
                 options.AddPolicy("DeleteRolePolicy",
                 policy => policy.RequireClaim("Delete Role")
-                      .RequireClaim("Create Role")
-
-             );
+                      .RequireClaim("Create Role"));
+            });
+            //Roles Policy
+            services.AddAuthorization(options =>
+            {
+                options.AddPolicy("AdminRolePolicy", policy => policy.RequireRole("Admin"));
             });
             services.AddScoped<IEmployee2Repository,SQLEmployeeRepository>();
            
