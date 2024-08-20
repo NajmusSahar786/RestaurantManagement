@@ -51,9 +51,14 @@ namespace RestaurantManagement
                                 .Build();
                 config.Filters.Add(new AuthorizeFilter(policy));
             });
-
+            services.AddAuthorization(options =>
+            {
+                options.AddPolicy("DeleteRolePolicy",
+                    policy => policy.RequireClaim("Delete Role"));
+            });
             services.AddScoped<IEmployee2Repository,SQLEmployeeRepository>();
-          
+           
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
