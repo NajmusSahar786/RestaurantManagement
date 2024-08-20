@@ -45,12 +45,15 @@ namespace RestaurantManagement
 
             //services.AddMvc(option => option.EnableEndpointRouting = false);//first approach
             //services.AddMvc();//2nd approach
+
+            //apply authorize attribute globally
             services.AddMvc(config => {
                 var policy = new AuthorizationPolicyBuilder()
                                 .RequireAuthenticatedUser()
                                 .Build();
                 config.Filters.Add(new AuthorizeFilter(policy));
             });
+            //claim based authorization
             services.AddAuthorization(options =>
             {
                 options.AddPolicy("DeleteRolePolicy",
