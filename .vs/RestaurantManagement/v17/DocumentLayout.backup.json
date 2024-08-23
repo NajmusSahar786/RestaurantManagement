@@ -477,7 +477,7 @@
               "RelativeDocumentMoniker": "RestaurantManagement\\appsettings.json",
               "ToolTip": "D:\\Projects\\netCore\\RestaurantManagement\\RestaurantManagement\\appsettings.json",
               "RelativeToolTip": "RestaurantManagement\\appsettings.json",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-22T09:16:22.692Z",
               "EditorCaption": ""
@@ -660,8 +660,7 @@
               "RelativeToolTip": "RestaurantManagement\\Controllers\\ErrorController.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAAACwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T09:33:19.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T09:33:19.319Z"
             },
             {
               "$type": "Document",
@@ -733,8 +732,7 @@
               "RelativeToolTip": "RestaurantManagement\\Controllers\\HomeController.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T06:09:12.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T06:09:12.896Z"
             },
             {
               "$type": "Document",
