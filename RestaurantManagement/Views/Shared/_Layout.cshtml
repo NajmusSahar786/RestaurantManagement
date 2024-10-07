@@ -43,7 +43,7 @@
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <ul class="navbar-nav">
+            <ul class="navbar-nav w-100">
                 <li class="nav-item">
                     <a asp-controller="Home" asp-action="Index" class="nav-link">List</a>
                 </li>
@@ -69,7 +69,7 @@
                 }
 
             </ul>
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav navbar-right">
               
                 @*If the user is signed-in display Logout link*@
                 @if (signInManager.IsSignedIn(User))
