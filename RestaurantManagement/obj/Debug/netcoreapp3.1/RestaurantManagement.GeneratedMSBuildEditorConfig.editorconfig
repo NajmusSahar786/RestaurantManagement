@@ -3,3 +3,6 @@ build_property.RootNamespace = RestaurantManagement
 build_property.ProjectDir = D:\Projects\netCore\RestaurantManagement\RestaurantManagement\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
